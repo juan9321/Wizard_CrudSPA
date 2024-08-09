@@ -5,8 +5,6 @@ Este projeto foi criado para prática de como construir uma aplicação CRUD uti
 
 ![image](https://github.com/user-attachments/assets/72c43f24-7542-4a03-9fd5-827025c9bcf9)
 
-![image](https://github.com/user-attachments/assets/3e695043-e801-4732-9410-dc65d02683cf)
-
 Objetivos:
 
 Entender SPA: Mostrar como uma aplicação web pode funcionar como uma SPA, navegando entre páginas sem recarregar.
